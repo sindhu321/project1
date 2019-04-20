@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><metatype:MetaData xmlns:metatype="http://www.osgi.org/xmlns/metatype/v1.0.0" localization="OSGI-INF/metatype/com.project1.aem.core.Workflows.LeftSideProcessStep">
+    <OCD id="com.project1.aem.core.Workflows.LeftSideProcessStep" name="%com.project1.aem.core.Workflows.LeftSideProcessStep.name" description="%com.project1.aem.core.Workflows.LeftSideProcessStep.description"/>
+    <Designate pid="com.project1.aem.core.Workflows.LeftSideProcessStep">
+        <Object ocdref="com.project1.aem.core.Workflows.LeftSideProcessStep"/>
+    </Designate>
+</metatype:MetaData>
